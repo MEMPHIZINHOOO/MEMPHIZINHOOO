@@ -2,7 +2,6 @@
 -  I’m interested in cybersecurity and hacking
 -  I’m currently learning about FPGA programming for Quantum Communication Setups
 -  I’m looking to collaborate on Pentesting/Bugbounty and cybersecurity Projects
--  How to reach me linkedin: Frederico.vcastro
 
 
 <!---
