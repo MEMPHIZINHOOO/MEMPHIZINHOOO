@@ -16,8 +16,6 @@ Still early. But serious about it.
 
 Founder of **Er3bUs**, a red team focused on web application security assessment conducting real engagements, writing clear reports, and doing responsible disclosure. Taught web exploitation at **secTT**, the academic security team at IST. Research Assistant (External Collaborator) at **QuLab** working on quantum communications and secure systems.
 
-<img align="left" width="280" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnU3eWFwYjZlOW14cXppYjRucWZlM3VxeDV1bDh1OW12aDlmdGZsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p1zc7gMGcDA6Hxe6vs/giphy.gif"/>
-
 On the tools side, I'm building a C2 framework in Rust and Python for educational and lab use, developing **sp1derl1ng** a controlled web surface mapper for authorized targets and **vxmeta**, a forensic metadata extraction toolkit. Most of my serious work lives in private repos or under NDA(mostly bugbounties and security audit programs).
 
 
